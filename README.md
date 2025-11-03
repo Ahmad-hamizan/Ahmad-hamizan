@@ -50,9 +50,9 @@
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/jan-ahmad-hamizan"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+  <a href="https://instagram.com/ahmadhamijan_"><img src="https://img.shields.io/badge/-Instagram-181717?style=for-the-badge&logo=instagram&logoColor=red"/></a>
   <a href="mailto:ahmadhamiijan@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Ahmad-hamizan"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://instagram.com/ahmadhamijan_"><img src="https://img.shields.io/badge/-Instagram-181717?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
@@ -61,4 +61,4 @@
 
 ---
 
-⭐️ From [Ahmad Hamizan](https://github.com/YOUR_GITHUB_USERNAME)
+⭐️ From [Ahmad Hamizan](https://github.com/Ahmad-hamizan)
