@@ -3,24 +3,10 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Ahmad+Hamizan+👋;AI+%26+Web+Developer;Informatics+Engineering+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&repeat=true&width=600&lines=Hi+there,+I'm+Ahmad+Hamizan+👋;AI+%26+Web+Developer;Informatics+Engineering+Student" alt="Typing SVG" />
 </h1>
 
-<style>
-@keyframes glitch {
-  0% { text-shadow: 2px 0 cyan, -2px 0 blue; }
-  20% { text-shadow: -2px 0 cyan, 2px 0 blue; }
-  40% { text-shadow: 2px 0 blue, -2px 0 cyan; }
-  60% { text-shadow: -2px 0 blue, 2px 0 cyan; }
-  80% { text-shadow: 2px 0 cyan, -2px 0 blue; }
-  100% { text-shadow: none; }
-}
-img[alt="Typing SVG"] {
-  filter: drop-shadow(0 0 8px #00ffff);
-  animation: glitch 1s infinite;
-}
-</style>
-
+---
 
 <p align="center">
   🎓 <b>Informatics Engineering Student</b> | 💡 AI & Web Developer Enthusiast <br/>
