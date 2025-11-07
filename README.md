@@ -1,4 +1,12 @@
-<h1 align="center">Hi there, I'm Ahmad Hamizan 👋</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXdnYnlsaHU4ZnBvZDZhbWN3ZHlyenZzazF3MWt5cXZhZTRhazNlZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/s8mNGoF5FI6AMYiDAg/giphy.gif" width="150"/>
+</p>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Ahmad+Hamizan+👋" alt="Typing SVG" />
+  </a>
+</h1>
 
 <p align="center">
   🎓 <b>Informatics Engineering Student</b> | 💡 AI & Web Developer Enthusiast <br/>
