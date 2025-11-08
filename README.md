@@ -1,5 +1,5 @@
 <!-- GIF di kiri -->
-<img align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXdnYnlsaHU4ZnBvZDZhbWN3ZHlyenZzazF3MWt5cXZhZTRhazNlZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/s8mNGoF5FI6AMYiDAg/giphy.gif" width="150" />
+<img align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXdnYnlsaHU4ZnBvZDZhbWN3ZHlyenZzazF3MWt5cXZhZTRhazNlZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/s8mNGoF5FI6AMYiDAg/giphy.gif" width="300" />
 
 <!-- Konten di kanan -->
 <h1>
