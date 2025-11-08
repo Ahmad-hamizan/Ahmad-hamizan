@@ -20,5 +20,3 @@
 ---
 
 💬 “Code. Learn. Create. Repeat.” 💬  
-
-⭐️ From [Ahmad Hamizan](https://github.com/Ahmad-hamizan)
