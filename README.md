@@ -1,24 +1,24 @@
 <div align="center">
-  <table>
-    <tr>
-      <!-- Kolom kiri: GIF -->
-      <td align="center" width="220">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXdnYnlsaHU4ZnBvZDZhbWN3ZHlyenZzazF3MWt5cXZhZTRhazNlZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/s8mNGoF5FI6AMYiDAg/giphy.gif" width="180" alt="Cool Character GIF"/>
-      </td>
+  <div style="display: flex; align-items: center; justify-content: center;">
+    
+  <!-- Gambar di kiri -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXdnYnlsaHU4ZnBvZDZhbWN3ZHlyenZzazF3MWt5cXZhZTRhazNlZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/s8mNGoF5FI6AMYiDAg/giphy.gif" 
+       width="170" style="margin-right: 25px; border-radius: 10px;" alt="Cool Character GIF"/>
+  
+  <!-- Teks di kanan -->
+  <div align="left">
+    <h1 style="color:#00FFFF; font-family:Poppins; font-weight:700; margin-bottom:8px;">
+      Informatics Engineering Student
+    </h1>
+    <p style="font-size:16px; color:#CFCFCF; margin:0;">
+      🎓 <b>Informatics Engineering Student</b> | 💡 <b>AI & Web Developer Enthusiast</b><br/>
+      🚀 Exploring <b>Artificial Intelligence</b>, <b>Web Development</b>, and <b>Cloud Computing</b>
+    </p>
+  </div>
 
-      <!-- Kolom kanan: teks -->
-      <td align="left" style="padding-left: 20px;">
-        <h1 style="color:#00FFFF; font-family:Poppins; font-weight:700;">
-          Informatics Engineering Student
-        </h1>
-        <p style="font-size:16px; color:#CFCFCF;">
-          🎓 <b>Informatics Engineering Student</b> | 💡 <b>AI & Web Developer Enthusiast</b> <br/>
-          🚀 Exploring <b>Artificial Intelligence</b>, <b>Web Development</b>, and <b>Cloud Computing</b>
-        </p>
-      </td>
-    </tr>
-  </table>
+  </div>
 </div>
+
 
 
 ---
