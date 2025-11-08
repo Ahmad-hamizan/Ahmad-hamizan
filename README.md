@@ -1,15 +1,25 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXdnYnlsaHU4ZnBvZDZhbWN3ZHlyenZzazF3MWt5cXZhZTRhazNlZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/s8mNGoF5FI6AMYiDAg/giphy.gif" width="150"/>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <!-- Kolom kiri: GIF -->
+      <td align="center" width="220">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXdnYnlsaHU4ZnBvZDZhbWN3ZHlyenZzazF3MWt5cXZhZTRhazNlZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/s8mNGoF5FI6AMYiDAg/giphy.gif" width="180" alt="Cool Character GIF"/>
+      </td>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Ahmad+Hamizan+👋;AI+%26+Web+Developer;Informatics+Engineering+Student" alt="Typing SVG" />
-</h1>
+      <!-- Kolom kanan: teks -->
+      <td align="left" style="padding-left: 20px;">
+        <h1 style="color:#00FFFF; font-family:Poppins; font-weight:700;">
+          Informatics Engineering Student
+        </h1>
+        <p style="font-size:16px; color:#CFCFCF;">
+          🎓 <b>Informatics Engineering Student</b> | 💡 <b>AI & Web Developer Enthusiast</b> <br/>
+          🚀 Exploring <b>Artificial Intelligence</b>, <b>Web Development</b>, and <b>Cloud Computing</b>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  🎓 <b>Informatics Engineering Student</b> | 💡 AI & Web Developer Enthusiast <br/>
-  🚀 Exploring <b>Artificial Intelligence</b>, <b>Web Development</b>, and <b>Cloud Computing</b> <br/>
-</p>
 
 ---
 
